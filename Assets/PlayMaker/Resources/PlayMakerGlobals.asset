@@ -42,3 +42,5 @@ MonoBehaviour:
   - ALERT
   - SOUND
   - UNALERT
+  - SNAKE_ALERT
+  - SNAKE_UNALERT
