@@ -44,3 +44,6 @@ MonoBehaviour:
   - UNALERT
   - SNAKE_ALERT
   - SNAKE_UNALERT
+  - attack
+  - ABOVE_GROUND
+  - UNDER_GROUND
