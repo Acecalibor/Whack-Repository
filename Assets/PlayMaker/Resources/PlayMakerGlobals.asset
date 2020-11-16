@@ -47,3 +47,4 @@ MonoBehaviour:
   - attack
   - ABOVE_GROUND
   - UNDER_GROUND
+  - FETCH
