@@ -349,7 +349,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: ac48bb868a0606d4f8bc3b34c753a88a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -387,7 +387,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 616323305}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 3}
+  m_LocalPosition: {x: -0.115, y: 0, z: 3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1541812877}
@@ -406,7 +406,7 @@ GameObject:
   - component: {fileID: 1464169637}
   - component: {fileID: 1464169636}
   - component: {fileID: 1464169635}
-  m_Layer: 11
+  m_Layer: 9
   m_Name: SeeThrough
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -501,7 +501,6 @@ GameObject:
   - component: {fileID: 1541812877}
   - component: {fileID: 1541812876}
   - component: {fileID: 1541812875}
-  - component: {fileID: 1541812874}
   m_Layer: 10
   m_Name: Sphere
   m_TagString: Untagged
@@ -509,19 +508,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!135 &1541812874
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1541812873}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &1541812875
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -579,8 +565,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1541812873}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -3.044}
-  m_LocalScale: {x: 0.8813931, y: 0.8813931, z: 0.8813931}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.9512017, y: 1.9512017, z: 1.9512017}
   m_Children: []
   m_Father: {fileID: 616323309}
   m_RootOrder: 0
