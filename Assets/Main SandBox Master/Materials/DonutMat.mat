@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-892874387432790408
+--- !u!114 &-5967943250599755151
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: CelV3
-  m_Shader: {fileID: -6465566751694194690, guid: 14d65fa4403e182459f8c35760863802, type: 3}
+  m_Name: DonutMat
+  m_Shader: {fileID: -6465566751694194690, guid: 769f7e0b8794e084585b8aed14949540, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -32,12 +32,8 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - Texture2D_7AC67915:
-        m_Texture: {fileID: 2800000, guid: e1c2aedc8187e4643b91a6e22e69926a, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture2D_BCB05999:
-        m_Texture: {fileID: 2800000, guid: 8430f8a231b982142a3c251f02931aa9, type: 3}
+    - Texture2D_182446DB:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
@@ -69,10 +65,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_21590693: 0.192
-    - Vector1_29FF27D: 0.297
-    - Vector1_5C4D3D1A: 1.53
-    - Vector1_726167D9: 7.18
+    - Vector1_4366066D: 0.004
+    - Vector1_7CA43EC9: 0
+    - Vector1_AA6BACA6: 0.648
+    - Vector1_BB550FC9: 0.532
+    - Vector1_D6507699: 23.21
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -95,9 +92,10 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_6EBE01B6: {r: 1, g: 1, b: 1, a: 0}
-    - Color_BEBE7E40: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 0}
-    - Color_EBEC1: {r: 1, g: 1, b: 1, a: 0}
+    - Color_12EE7316: {r: 1, g: 1, b: 1, a: 0}
+    - Color_20A276BC: {r: 1, g: 1, b: 1, a: 1}
+    - Color_670E5AD: {r: 0.6320754, g: 0.6320754, b: 0.6320754, a: 0}
+    - Color_DCC429FE: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
