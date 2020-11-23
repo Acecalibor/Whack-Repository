@@ -2921,7 +2921,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0101010101
-        actionIsOpen: 0100000101
+        actionIsOpen: 0100010101
         actionStartIndex: 00000000050000000c000000130000001c000000
         actionHashCodes: 5b66cf005552ad05ca51e9004e66130148c01101
         unityObjectParams: []
@@ -3509,7 +3509,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.5
+          value: 2
         fsmIntParams: []
         fsmBoolParams:
         - useVariable: 0
@@ -5717,7 +5717,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &6683493882890995144
 Transform:
   m_ObjectHideFlags: 0
