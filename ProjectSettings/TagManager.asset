@@ -8,6 +8,7 @@ TagManager:
   - Ground_Diggable
   - NavDest
   - Bone
+  - Key
   layers:
   - Default
   - TransparentFX
@@ -21,7 +22,7 @@ TagManager:
   - EnemyGround
   - Mask
   - SeeThrough
-  - 
+  - Ground
   - 
   - 
   - 
