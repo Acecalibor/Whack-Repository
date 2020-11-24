@@ -108,6 +108,7 @@ GameObject:
   - component: {fileID: 992605797177118362}
   - component: {fileID: 992605797177118363}
   - component: {fileID: 992605797177118365}
+  - component: {fileID: 443336095851350303}
   m_Layer: 0
   m_Name: Catto
   m_TagString: Untagged
@@ -3741,7 +3742,21 @@ MonoBehaviour:
     handleAnimatorMove: 0
     handleAnimatorIK: 0
   fsmTemplate: {fileID: 0}
-  eventHandlerComponentsAdded: 0
+  eventHandlerComponentsAdded: 1
+--- !u!114 &443336095851350303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 992605797177118364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1079068393, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TargetFSMs:
+  - {fileID: 992605797177118365}
 --- !u!1 &992605797652799761
 GameObject:
   m_ObjectHideFlags: 0
@@ -4122,6 +4137,7 @@ GameObject:
   - component: {fileID: 4857146305700239526}
   - component: {fileID: 4857146305700239521}
   - component: {fileID: 4857146305700239524}
+  - component: {fileID: 5659248332656624736}
   m_Layer: 0
   m_Name: Escape Sensor
   m_TagString: Untagged
@@ -4222,6 +4238,19 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &5659248332656624736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4857146305700239523}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1144467388, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TargetFSMs: []
 --- !u!1 &4857146305985210527
 GameObject:
   m_ObjectHideFlags: 0
@@ -5004,6 +5033,7 @@ GameObject:
   - component: {fileID: 4857146306930540306}
   - component: {fileID: 4857146306930540301}
   - component: {fileID: 4857146306930540305}
+  - component: {fileID: 2174566274838719529}
   m_Layer: 0
   m_Name: AreaSensor
   m_TagString: Untagged
@@ -5485,7 +5515,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -5500,7 +5530,7 @@ MonoBehaviour:
     handleCollisionEnter2D: 0
     handleCollisionExit2D: 0
     handleCollisionStay2D: 0
-    handleTriggerEnter: 0
+    handleTriggerEnter: 1
     handleTriggerExit: 0
     handleTriggerStay: 0
     handleCollisionEnter: 0
@@ -5519,7 +5549,7 @@ MonoBehaviour:
     handleAnimatorMove: 0
     handleAnimatorIK: 0
   fsmTemplate: {fileID: 0}
-  eventHandlerComponentsAdded: 0
+  eventHandlerComponentsAdded: 1
 --- !u!54 &4857146306930540305
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5536,3 +5566,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &2174566274838719529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4857146306930540303}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 82786459, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TargetFSMs:
+  - {fileID: 4857146306930540301}
