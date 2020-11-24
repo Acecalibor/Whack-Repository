@@ -311,7 +311,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: Level 2 Carnival Games.
+          value: Level 2 Carnival Games
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
