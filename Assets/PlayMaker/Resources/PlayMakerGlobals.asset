@@ -48,3 +48,5 @@ MonoBehaviour:
   - ABOVE_GROUND
   - UNDER_GROUND
   - FETCH
+  - Dig
+  - DIG
