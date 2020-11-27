@@ -9,6 +9,7 @@ TagManager:
   - NavDest
   - Bone
   - Key
+  - UseStrengthGameTrigger
   layers:
   - Default
   - TransparentFX
