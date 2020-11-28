@@ -129,7 +129,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-10292
+  m_Name: pb_Mesh-3048
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -417,7 +417,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-10302
+  m_Name: pb_Mesh-3058
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -963,8 +963,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 72709985}
-  m_LocalRotation: {x: 0.1047981, y: 0.49590006, z: -0.060435727, w: 0.8599116}
-  m_LocalPosition: {x: -5.2745056, y: 11.504999, z: -14.955444}
+  m_LocalRotation: {x: -0.0476213, y: 0.91251165, z: -0.111208506, w: -0.39075243}
+  m_LocalPosition: {x: 4.7695656, y: 11.504999, z: -7.4286346}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8789122264625663983}
@@ -1294,7 +1294,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11416
+  m_Name: pb_Mesh-4262
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1520,7 +1520,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11270
+  m_Name: pb_Mesh-4116
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2211,7 +2211,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ecea4504013947847857856127d744a4, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ecea4504013947847857856127d744a4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2448,7 +2448,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5573133812270778478, guid: 27718cf0fb183d54e99417d7d962ead8, type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 5573133812270778478, guid: 27718cf0fb183d54e99417d7d962ead8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -4330,7 +4330,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11286
+  m_Name: pb_Mesh-4132
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -4866,7 +4866,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh29366
+  m_Name: pb_Mesh23686
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -5839,12 +5839,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 451085528}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -20.516346, y: -0.5695963, z: -10.0505}
+  m_LocalPosition: {x: -20.320717, y: 9.125403, z: -21.8405}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 8415324835497728132}
-  m_Father: {fileID: 8923021960252364915}
-  m_RootOrder: 8
+  m_Father: {fileID: 8789122264625663983}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &452497435 stripped
 Transform:
@@ -6658,7 +6658,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11280
+  m_Name: pb_Mesh-4126
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7194,7 +7194,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh29336
+  m_Name: pb_Mesh23656
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7663,7 +7663,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11408
+  m_Name: pb_Mesh-4254
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7920,7 +7920,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5304142197352129588, guid: 90995c17b0df34e4bad6f50b4e2a5762, type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 5304142197352129588, guid: 90995c17b0df34e4bad6f50b4e2a5762, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -8773,7 +8773,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7456247141447837418, guid: 70116715fae2c4942967e0b673f6ca18, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 7456247141447837418, guid: 70116715fae2c4942967e0b673f6ca18, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -8990,7 +8990,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-10318
+  m_Name: pb_Mesh-3074
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -9330,7 +9330,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11296
+  m_Name: pb_Mesh-4142
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -9995,7 +9995,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-10308
+  m_Name: pb_Mesh-3064
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -10335,7 +10335,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-13064
+  m_Name: pb_Mesh-6010
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -10685,7 +10685,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh29402
+  m_Name: pb_Mesh23732
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -12881,7 +12881,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3149441578639602085, guid: b28e84c04e110cb4d9458bd2ce7d841e, type: 3}
       propertyPath: m_RootOrder
-      value: 17
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 3149441578639602085, guid: b28e84c04e110cb4d9458bd2ce7d841e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -13126,7 +13126,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-12800
+  m_Name: pb_Mesh-5746
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -14122,7 +14122,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 16.111568}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: -15.938, z: 0}
 --- !u!1001 &1097742608
 PrefabInstance:
@@ -14434,7 +14434,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-12962
+  m_Name: pb_Mesh-5908
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -15022,7 +15022,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh29358
+  m_Name: pb_Mesh23678
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -15947,7 +15947,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1257527431
 PrefabInstance:
@@ -17584,7 +17584,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-12616
+  m_Name: pb_Mesh-5562
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -17864,7 +17864,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 581766423325700260, guid: 95675f0112914614790e70f62ccc16e7, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 581766423325700260, guid: 95675f0112914614790e70f62ccc16e7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -18235,7 +18235,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 568545712719109474, guid: d778c4b2a35e49f489d9093a838189db, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 568545712719109474, guid: d778c4b2a35e49f489d9093a838189db, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -18847,7 +18847,7 @@ Transform:
   - {fileID: 2110840253}
   - {fileID: 290149465}
   m_Father: {fileID: 0}
-  m_RootOrder: 21
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1428330978
 PrefabInstance:
@@ -20594,7 +20594,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3149441578639602085, guid: b28e84c04e110cb4d9458bd2ce7d841e, type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 3149441578639602085, guid: b28e84c04e110cb4d9458bd2ce7d841e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -22553,7 +22553,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1319735319642339121, guid: 3ed3a413e3940b84f802243a4bb9e0f6, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 1319735319642339121, guid: 3ed3a413e3940b84f802243a4bb9e0f6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -22782,7 +22782,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 40.829, y: -350.694, z: -322.019}
 --- !u!1001 &1686626650
 PrefabInstance:
@@ -22971,7 +22971,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-10978
+  m_Name: pb_Mesh-3792
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -23249,7 +23249,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-12960
+  m_Name: pb_Mesh-5906
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -24832,7 +24832,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11418
+  m_Name: pb_Mesh-4264
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -27485,7 +27485,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh29346
+  m_Name: pb_Mesh23666
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -28770,7 +28770,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh29378
+  m_Name: pb_Mesh23698
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -29041,7 +29041,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2144332325
 PrefabInstance:
@@ -30661,7 +30661,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8789122264625663983}
   m_Layer: 0
-  m_Name: PlayerCTRLPack 2
+  m_Name: PlayerCTRLPack 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30728,7 +30728,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5222302622825088728, guid: f3635bb3342b16b44aac11f13c6ac7cb, type: 3}
       propertyPath: m_RootOrder
-      value: 15
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 5222302622825088728, guid: f3635bb3342b16b44aac11f13c6ac7cb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -31075,7 +31075,7 @@ Transform:
   m_Children:
   - {fileID: 8602800808894173675}
   m_Father: {fileID: 8789122264625663983}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1940975348238618031
 Transform:
@@ -31094,7 +31094,7 @@ Transform:
   - {fileID: 135617796123398846}
   - {fileID: 135617796811302891}
   m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &2256889856497223650
 MeshRenderer:
@@ -31190,6 +31190,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dog_03
       objectReference: {fileID: 0}
+    - target: {fileID: 3316185588406328678, guid: a461a1ff209279e418de321580d18c65, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3316185588406328678, guid: a461a1ff209279e418de321580d18c65, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.49
+      objectReference: {fileID: 0}
     - target: {fileID: 4203464879376936289, guid: a461a1ff209279e418de321580d18c65, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.12
@@ -31210,6 +31218,18 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1042993078}
+    - target: {fileID: 4203464879470144219, guid: a461a1ff209279e418de321580d18c65, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4203464879470144219, guid: a461a1ff209279e418de321580d18c65, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 32.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 6422395203396030342, guid: a461a1ff209279e418de321580d18c65, type: 3}
+      propertyPath: m_Layer
+      value: 13
+      objectReference: {fileID: 0}
     - target: {fileID: 8676054047292625944, guid: a461a1ff209279e418de321580d18c65, type: 3}
       propertyPath: m_LocalPosition.x
       value: 43.24
@@ -31240,7 +31260,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8676054047292625944, guid: a461a1ff209279e418de321580d18c65, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8676054047292625944, guid: a461a1ff209279e418de321580d18c65, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -31363,7 +31383,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1217557790703792765, guid: 7aeeb3677b9fdd44f9e3eba501b44e6a, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1217557790703792765, guid: 7aeeb3677b9fdd44f9e3eba501b44e6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -31485,7 +31505,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6328083056430343653, guid: b772366a457721f459f01cb3c3ab3b85, type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6328083056430343653, guid: b772366a457721f459f01cb3c3ab3b85, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -31862,7 +31882,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8500626801765445344, guid: 63398b92427bb7e4ebd30ed218baebde, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8500626801765445344, guid: 63398b92427bb7e4ebd30ed218baebde, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -31919,7 +31939,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9038000419595209923, guid: e15f24307f7dea9478d2719b590a3a6d, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 21
       objectReference: {fileID: 0}
     - target: {fileID: 9038000419595209923, guid: e15f24307f7dea9478d2719b590a3a6d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -32086,7 +32106,7 @@ MonoBehaviour:
           name: grabbed
           isSystemEvent: 0
           isGlobal: 0
-        toState: Holding Item
+        toState: Parent
         linkStyle: 0
         linkConstraint: 0
         colorIndex: 0
@@ -32211,8 +32231,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 456
-        y: 130.99219
+        x: 604
+        y: 246.99219
         width: 104
         height: 32
       isBreakpoint: 0
@@ -32434,8 +32454,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 265.5
-        y: 208.10156
+        x: 633.5
+        y: 307.10156
         width: 114
         height: 32
       isBreakpoint: 0
@@ -32446,7 +32466,7 @@ MonoBehaviour:
           name: FINISHED
           isSystemEvent: 1
           isGlobal: 0
-        toState: listener
+        toState: 
         linkStyle: 0
         linkConstraint: 0
         colorIndex: 0
@@ -32654,6 +32674,239 @@ MonoBehaviour:
         - lateUpdate
         paramDataPos: 0000000000000000000000000000000001000000000000000000000001000000020000000000000004000000020000000100000003000000040000000500000005000000090000000a0000000300000000000000020000000600000007000000080000000b0000000f00000010000000
         paramByteDataSize: 00000000000000000000000000000000000000000000000000000000000000000000000004000000010000000000000000000000000000000000000000000000040000000100000001000000000000000000000000000000000000000000000000000000040000000100000001000000
+    - name: Parent
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 480.4375
+        y: 147.16406
+        width: 100
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: dropped
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: Paren't
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - HutongGames.PlayMaker.Actions.SetParent
+        - HutongGames.PlayMaker.Actions.SetIsKinematic
+        - HutongGames.PlayMaker.Actions.GetMouseButtonDown
+        customNames:
+        - 
+        - 
+        - 
+        actionEnabled: 010101
+        actionIsOpen: 010101
+        actionStartIndex: 000000000400000006000000
+        actionHashCodes: ea32a10515264c0134b46c04
+        unityObjectParams: []
+        fsmGameObjectParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {fileID: 6167134426129187819}
+        fsmOwnerDefaultParams:
+        - ownerOption: 1
+          gameObject:
+            useVariable: 1
+            name: Item
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        - ownerOption: 1
+          gameObject:
+            useVariable: 1
+            name: Item
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams:
+        - dropped
+        byteData: 0000000001
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 14000000130000001100000011000000140000001100000007000000170000001100000001000000
+        paramName:
+        - gameObject
+        - parent
+        - resetLocalPosition
+        - resetLocalRotation
+        - gameObject
+        - isKinematic
+        - button
+        - sendEvent
+        - storeResult
+        - inUpdateOnly
+        paramDataPos: 00000000000000000000000001000000010000000200000000000000000000000300000004000000
+        paramByteDataSize: 00000000000000000000000000000000000000000000000004000000000000000000000001000000
+    - name: Paren't
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 279.70312
+        y: 195.80469
+        width: 100
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: listener
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - HutongGames.PlayMaker.Actions.SetParent
+        - HutongGames.PlayMaker.Actions.SetIsKinematic
+        customNames:
+        - 
+        - 
+        actionEnabled: 0101
+        actionIsOpen: 0101
+        actionStartIndex: 0000000004000000
+        actionHashCodes: ea32a10515264c01
+        unityObjectParams: []
+        fsmGameObjectParams:
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {fileID: 0}
+        fsmOwnerDefaultParams:
+        - ownerOption: 1
+          gameObject:
+            useVariable: 1
+            name: Item
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        - ownerOption: 1
+          gameObject:
+            useVariable: 1
+            name: Item
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams: []
+        fsmIntParams: []
+        fsmBoolParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 140000001300000011000000110000001400000011000000
+        paramName:
+        - gameObject
+        - parent
+        - resetLocalPosition
+        - resetLocalRotation
+        - gameObject
+        - isKinematic
+        paramDataPos: 000000000000000000000000010000000100000002000000
+        paramByteDataSize: 000000000000000000000000000000000000000000000000
     events:
     - name: FINISHED
       isSystemEvent: 1
@@ -33245,7 +33498,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8602800808894173672}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.301719, y: 0.23855686, z: -2.6823463}
+  m_LocalPosition: {x: 4.742352, y: 0.23855686, z: 4.8444633}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 8602800810150866689}
@@ -33321,7 +33574,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8602800809190688100}
-  m_LocalRotation: {x: 0.1047981, y: 0.49590006, z: -0.060435724, w: 0.8599116}
+  m_LocalRotation: {x: -0.047621295, y: 0.9125116, z: -0.11120849, w: -0.39075243}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -33588,7 +33841,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8602800809682268369}
-  m_LocalRotation: {x: 0.1204221, y: 0.49471873, z: -0.069445886, w: 0.8578631}
+  m_LocalRotation: {x: -0.05472101, y: 0.9103378, z: -0.12778822, w: -0.38982156}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -33721,7 +33974,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8602800810120766812}
-  m_LocalRotation: {x: 0.08918081, y: 0.4969149, z: -0.05142944, w: 0.8616713}
+  m_LocalRotation: {x: -0.040524643, y: 0.91437894, z: -0.094635904, w: -0.39155206}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -33969,10 +34222,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 423241090315108078}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 62.29, y: -5.63, z: 90.26}
+  m_LocalPosition: {x: 41.9, y: -5.63, z: 74.35}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 72709988}
+  - {fileID: 451085529}
   - {fileID: 1570936528989259826}
   - {fileID: 8923021960252364915}
   m_Father: {fileID: 0}
@@ -39132,7 +39386,7 @@ MonoBehaviour:
         - 
         actionEnabled: 0101010101
         actionIsOpen: 0101010101
-        actionStartIndex: 000000000b000000110000001500000026000000
+        actionStartIndex: 000000000b000000110000001500000027000000
         actionHashCodes: 9399b604dfd72a0463b78b04d3bd7b051bcdca04
         unityObjectParams: []
         fsmGameObjectParams:
@@ -39292,6 +39546,12 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 9
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 13
         fsmBoolParams:
         - useVariable: 0
           name: 
@@ -39383,12 +39643,12 @@ MonoBehaviour:
         - gotToCheck
         - 
         byteData: 000000000101010000000100000001
-        arrayParamSizes: 01000000
+        arrayParamSizes: 02000000
         arrayParamTypes:
         - HutongGames.PlayMaker.FsmInt
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 0f0000000f0000000f00000016000000070000000f0000000f0000000f0000001100000017000000010000001c0000001c0000000f0000000f0000000f00000001000000140000001c0000000700000011000000140000001c0000001c000000070000000f0000001700000011000000130000001c0000001c0000000f000000100000000c000000100000001100000019000000110000000f0000000f0000000f00000017000000170000001700000001000000
+        paramDataType: 0f0000000f0000000f00000016000000070000000f0000000f0000000f0000001100000017000000010000001c0000001c0000000f0000000f0000000f00000001000000140000001c0000000700000011000000140000001c0000001c000000070000000f0000001700000011000000130000001c0000001c0000000f000000100000000c00000010000000100000001100000019000000110000000f0000000f0000000f00000017000000170000001700000001000000
         paramName:
         - floatVariable
         - fromValue
@@ -39425,6 +39685,7 @@ MonoBehaviour:
         - repeatInterval
         - layerMask
         - 
+        - 
         - invertMask
         - debugColor
         - debug
@@ -39435,8 +39696,8 @@ MonoBehaviour:
         - lessThan
         - greaterThan
         - everyFrame
-        paramDataPos: 0000000001000000020000000000000000000000030000000400000005000000000000000000000004000000000000000100000006000000070000000800000005000000000000000200000006000000010000000100000003000000040000000a0000000900000001000000020000000000000005000000060000000a0000000000000000000000010000000300000000000000040000000b0000000c0000000d0000000200000003000000040000000e000000
-        paramByteDataSize: 000000000000000000000000000000000400000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000100000000000000000000000400000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000
+        paramDataPos: 0000000001000000020000000000000000000000030000000400000005000000000000000000000004000000000000000100000006000000070000000800000005000000000000000200000006000000010000000100000003000000040000000a0000000900000001000000020000000000000005000000060000000a000000000000000000000001000000020000000300000000000000040000000b0000000c0000000d0000000200000003000000040000000e000000
+        paramByteDataSize: 00000000000000000000000000000000040000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000010000000000000000000000040000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000
     - name: CheckifGrounded
       description: 
       colorIndex: 0
@@ -39467,7 +39728,7 @@ MonoBehaviour:
         - 
         actionEnabled: 0101
         actionIsOpen: 0101
-        actionStartIndex: 0000000011000000
+        actionStartIndex: 0000000012000000
         actionHashCodes: d3bd7b051bcdca04
         unityObjectParams: []
         fsmGameObjectParams:
@@ -39541,6 +39802,12 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 9
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 13
         fsmBoolParams:
         - useVariable: 1
           name: 
@@ -39601,12 +39868,12 @@ MonoBehaviour:
         - 
         - ApplyGravity
         byteData: 0100000001
-        arrayParamSizes: 01000000
+        arrayParamSizes: 02000000
         arrayParamTypes:
         - HutongGames.PlayMaker.FsmInt
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 140000001c0000001c000000070000000f0000001700000011000000130000001c0000001c0000000f000000100000000c000000100000001100000019000000110000000f0000000f0000000f00000017000000170000001700000001000000
+        paramDataType: 140000001c0000001c000000070000000f0000001700000011000000130000001c0000001c0000000f000000100000000c00000010000000100000001100000019000000110000000f0000000f0000000f00000017000000170000001700000001000000
         paramName:
         - fromGameObject
         - fromPosition
@@ -39622,6 +39889,7 @@ MonoBehaviour:
         - repeatInterval
         - layerMask
         - 
+        - 
         - invertMask
         - debugColor
         - debug
@@ -39632,8 +39900,8 @@ MonoBehaviour:
         - lessThan
         - greaterThan
         - everyFrame
-        paramDataPos: 000000000000000001000000000000000000000000000000000000000000000002000000030000000100000000000000000000000100000001000000000000000200000002000000030000000400000001000000020000000300000004000000
-        paramByteDataSize: 000000000000000000000000040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000
+        paramDataPos: 00000000000000000100000000000000000000000000000000000000000000000200000003000000010000000000000000000000010000000200000001000000000000000200000002000000030000000400000001000000020000000300000004000000
+        paramByteDataSize: 00000000000000000000000004000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000
     events:
     - name: ApplyGravity
       isSystemEvent: 0
@@ -42635,9 +42903,8 @@ Transform:
   - {fileID: 8923021960670743613}
   - {fileID: 8923021959444926551}
   - {fileID: 5383140043311002373}
-  - {fileID: 451085529}
   m_Father: {fileID: 8789122264625663983}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &8923021960252364916
 MonoBehaviour:
