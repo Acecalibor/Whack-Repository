@@ -10,6 +10,7 @@ TagManager:
   - Bone
   - Key
   - UseStrengthGameTrigger
+  - Human
   layers:
   - Default
   - TransparentFX
