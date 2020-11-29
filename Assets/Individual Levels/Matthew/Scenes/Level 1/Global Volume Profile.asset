@@ -93,19 +93,19 @@ MonoBehaviour:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.6073171
-          value: 1
-          inSlope: 0.3462964
-          outSlope: 0.3462964
+          time: 0.31189084
+          value: 0.19918698
+          inSlope: 0.89372814
+          outSlope: 0.89372814
           tangentMode: 0
           weightedMode: 0
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.83244205
-          value: 0.6666666
-          inSlope: 0.44924942
-          outSlope: 0.44924942
+          time: 0.7465887
+          value: 0.65853655
+          inSlope: 2.2667007
+          outSlope: 2.2667007
           tangentMode: 0
           weightedMode: 0
           inWeight: 0
@@ -279,7 +279,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 899c54efeace73346a0a16faa3afe726, type: 3}
   m_Name: Vignette
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   m_AdvancedMode: 0
   color:
     m_OverrideState: 1
