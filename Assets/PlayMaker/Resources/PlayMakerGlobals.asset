@@ -14,7 +14,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   variables:
     floatVariables: []
-    intVariables: []
+    intVariables:
+    - useVariable: 1
+      name: LevelTransitionInt
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: WhackAMoleMachineKeyInt
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     boolVariables: []
     stringVariables: []
     vector2Variables: []
@@ -22,13 +34,7 @@ MonoBehaviour:
     colorVariables: []
     rectVariables: []
     quaternionVariables: []
-    gameObjectVariables:
-    - useVariable: 1
-      name: groundAlphaSwitch
-      tooltip: 
-      showInInspector: 0
-      networkSync: 0
-      value: {fileID: 0}
+    gameObjectVariables: []
     objectVariables: []
     materialVariables: []
     textureVariables: []
@@ -36,7 +42,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000
+    variableCategoryIDs: 0000000000000000
   events:
   - UNEARTH
   - ALERT
@@ -50,3 +56,4 @@ MonoBehaviour:
   - FETCH
   - Dig
   - DIG
+  - ApplyGravity
