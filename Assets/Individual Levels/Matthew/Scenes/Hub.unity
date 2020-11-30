@@ -1508,7 +1508,7 @@ GameObject:
   m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!320 &354415862
 PlayableDirector:
   m_ObjectHideFlags: 0
@@ -3448,13 +3448,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 866090505}
-  m_LocalRotation: {x: -0, y: -0.59909964, z: -0, w: -0.8006745}
-  m_LocalPosition: {x: 69.94, y: 3.71, z: 80.44}
+  m_LocalRotation: {x: -0, y: -0.5747258, z: -0, w: -0.8183461}
+  m_LocalPosition: {x: 68.97, y: 3.71, z: 80.13}
   m_LocalScale: {x: 0.6711631, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 40
-  m_LocalEulerAnglesHint: {x: 0, y: -286.389, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -289.839, z: 0}
 --- !u!114 &866090508
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9661,12 +9661,14 @@ MonoBehaviour:
         linkConstraint: 0
         colorIndex: 0
       actionData:
-        actionNames: []
-        customNames: []
-        actionEnabled: 
-        actionIsOpen: 
-        actionStartIndex: 
-        actionHashCodes: 
+        actionNames:
+        - HutongGames.PlayMaker.Actions.ApplicationQuit
+        customNames:
+        - 
+        actionEnabled: 01
+        actionIsOpen: 01
+        actionStartIndex: 00000000
+        actionHashCodes: 00000000
         unityObjectParams: []
         fsmGameObjectParams: []
         fsmOwnerDefaultParams: []
@@ -16440,7 +16442,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3990665204348263382}
-  m_LocalRotation: {x: 0.10294759, y: -0.000000019182673, z: 0.0000000019853588, w: 0.9946868}
+  m_LocalRotation: {x: 0.10294759, y: -0.000000017641694, z: 0.0000000018258712, w: 0.9946868}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -16514,7 +16516,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3990665204916391515}
-  m_LocalRotation: {x: 0.13901159, y: 1e-45, z: -0, w: 0.99029076}
+  m_LocalRotation: {x: 0.13901159, y: -1e-45, z: -0, w: 0.99029076}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -16840,7 +16842,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3990665205297282030}
-  m_LocalRotation: {x: 0.1209757, y: -0.000000003488583, z: 4.2515627e-10, w: 0.9926555}
+  m_LocalRotation: {x: 0.1209757, y: 0.0000000042700026, z: -5.203885e-10, w: 0.9926555}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -16974,7 +16976,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3990665205738958690}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.4627843, y: -11.618342, z: 15.083096}
+  m_LocalPosition: {x: 9.139641, y: -11.618342, z: 16.660038}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 3990665204311282059}
@@ -27313,7 +27315,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4612522875597162987}
-  m_LocalRotation: {x: 0.1209757, y: -0.000000008177345, z: 9.965794e-10, w: 0.99265546}
+  m_LocalRotation: {x: 0.12658963, y: 0.000000008936307, z: -0.0000000010890747, w: 0.99267685}
   m_LocalPosition: {x: 0.48999786, y: -0.3519001, z: 2.8099976}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
